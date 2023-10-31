@@ -1,0 +1,12 @@
+Android SDK
+Componentes de Android
+Aplicación Android
+Activity
+View (widgets)
+XML Layout
+Res -> Links dentro de XMLs @coleccion/identificador (@string/boton_grabar, @style/titulo)
+    -> Links dentro de Java (R), R.string.boton_grabar, R.style.titulo
+    -> Calificadores - Variantes (landscape, por idioma, por tamaño de pantalla)
+Layouts (Views contenedores)
+    -> LinearLayout
+    -> ConstraintsLayout
