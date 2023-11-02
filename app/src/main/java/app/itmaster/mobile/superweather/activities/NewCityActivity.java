@@ -186,7 +186,7 @@ public class NewCityActivity extends AppCompatActivity {
 
     @Override
     protected void onStop() {
-        locationClient.removeLocationUpdates(locationCallback);
+//        locationClient.removeLocationUpdates(locationCallback);
 
         super.onStop();
     }
